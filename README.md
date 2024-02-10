@@ -51,11 +51,11 @@ For the rest of the code, check the [Hotel_SQL_queries.sql](https://github.com/J
 ```sql
 -- Create database
 CREATE DATABASE IF NOT EXISTS Project;
-
+```
 ## Hotel Visualization Dashboard
 
 The following dashboard assists us in addressing the remaining inquiries
-[Hotel Dashboard](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20dashboard%20pic.PNG)
+![Hotel Dashboard](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20dashboard%20pic.PNG)
 
 For the Dashboard interaction, check the [Dashboard Visualization](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20visualization.pbix)
 
