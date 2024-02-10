@@ -57,8 +57,6 @@ CREATE DATABASE IF NOT EXISTS Project;
 The following dashboard assists us in addressing the remaining inquiries
 ![Hotel Dashboard](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20dashboard%20pic.PNG)
 
-For the Dashboard interaction, check the [Dashboard Visualization](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20visualization.pbix)
+To interact with the dashboard seamlessly, download the PowerBI file here [Dashboard Visualization](https://github.com/Jamaderibigbe/Hotel-Data-Analysis/blob/main/hotel%20visualization.pbix)
 
-The following dashboard assists us in addressing the remaining inquiries
-### Conclusion
-2. 
+
